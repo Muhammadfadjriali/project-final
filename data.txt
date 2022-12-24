@@ -1,0 +1,3 @@
+id mahasiswa: [1]
+Nama buku          : [1]
+Banyak       : [1]
